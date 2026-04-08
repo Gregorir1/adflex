@@ -1,0 +1,7 @@
+{
+  "name": "AdFlex - Intelligent Creative Resizer",
+  "description": "Herramienta avanzada para adaptar diseños maestros en formatos de pauta digital responsivos utilizando IA, evitando deformaciones y manteniendo la integridad de marca.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
